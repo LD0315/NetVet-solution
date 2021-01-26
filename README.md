@@ -1,2 +1,2 @@
 
-Entity Framework for pets-appointment-search application.
+Entity Framework for pet-appointments-search application.
