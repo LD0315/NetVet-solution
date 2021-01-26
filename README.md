@@ -1,3 +1,2 @@
-# NetVet-solution
 
-
+Entity Framework for pets-appointment-search application.
